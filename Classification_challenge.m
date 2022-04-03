@@ -1,7 +1,3 @@
-%% Artificial Neural Networks         %%
-%% Kakkos Ioannis - 9304136030        %%
-%% Classification challenge           %%
-% clear all;
 
 %% Data loading
 [xTrain,tTrain,xValid,tValid,xTest,tTest] = LoadMNIST(3);
