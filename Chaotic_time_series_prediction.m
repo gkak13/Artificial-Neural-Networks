@@ -1,5 +1,5 @@
 %% Artificial Neural Networks         %%
-%% Kakkos Ioannis - 9304136030        %%
+%% Kakkos Ioannis                     %%
 %% Chaotic time series prediction     %%
 
 training_set = csvread('training-set.csv');
