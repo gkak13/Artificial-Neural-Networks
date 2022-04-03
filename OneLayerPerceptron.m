@@ -1,7 +1,4 @@
-%%%% One-layer perceptron %%%%
-%%%% Artificial Neural Networks %%%%
-%%%% Homework 2 %%%%
-%%%% Kakkos Ioannis %%%%
+
 
 clear all;clc;
 %% Data loading
