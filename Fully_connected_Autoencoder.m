@@ -1,6 +1,4 @@
-%% Artificial Neural Networks     %%
-%% Kakkos Ioannis - 9304136030    %%
-%% Fully connected Autoencoder    %%
+
 % clear all;
 
 %% Data loading
